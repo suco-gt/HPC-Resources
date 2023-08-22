@@ -19,8 +19,9 @@ Links for the self-taught HPCer. Or supplemental material to your classes and/or
 |[CLASSIFICATION OF PARALLEL COMPUTERS](https://hpc.llnl.gov/sites/default/files/parallelClassifications_0.pdf)|
 |[Uni.lu High Performance Computing (HPC) Tutorials](https://ulhpc-tutorials.readthedocs.io/en/latest/)|
 |[HPC Wiki](https://hpc-wiki.info/hpc/HPC_Wiki)|
+|[The Art of HPC](https://theartofhpc.com/index.html)|
 
-| Systems, Compilers, the Lower Stuff|
+| **Systems, Compilers, the Lower Stuff**|
 |----|
 |[Nand to Tetris](https://www.nand2tetris.org/)|
 |[Crafting Interpreters](https://craftinginterpreters.com/)|
